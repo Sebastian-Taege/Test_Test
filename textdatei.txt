@@ -6,5 +6,8 @@ green
 yellow
 
 unicorns have differnt colors
-blue 
+white
 grey
+
+
+ponies might have the same colors
