@@ -3,6 +3,7 @@ purple
 pink 
 orange 
 green
+blue
 yellow
 
 unicorns have differnt colors
